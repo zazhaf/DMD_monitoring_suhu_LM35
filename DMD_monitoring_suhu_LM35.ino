@@ -145,7 +145,7 @@ void loop() {
       if(digitalRead(A0)==0){i=200;}
       if(digitalRead(A1)==0){i=200;}
       tombol();
-      delay(10);
+      delay(20);
     }  
   }
 }
